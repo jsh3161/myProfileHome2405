@@ -6,6 +6,7 @@
 <meta charset="UTF-8">
 <link rel="stylesheet" href"/resources/css/title.css">
 
+
 <title>** Profile Home **</title>
 </head>
 <body>
